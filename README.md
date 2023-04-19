@@ -38,3 +38,6 @@ I am **Eurico Nicacio**, Sr. Security & Software Engineer. I hack & code for liv
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=euriconicacio&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euriconicacio&layout=compact)
+
+
+<a href="https://skyline.github.com/euriconicacio/2022" title="2022 GitHub Skyline"><img src="https://user-images.githubusercontent.com/5957301/233016285-bf82b948-8e1f-4b60-aa37-d3d2e3a86cbc.png" alt="2022 GitHub Skyline" width="50%" /></a>
