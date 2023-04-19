@@ -37,4 +37,4 @@ I am **Eurico Nicacio**, Sr. Security & Software Engineer. I hack & code for liv
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=euriconicacio&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euriconicacio&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euriconicacio&layout=compact)
