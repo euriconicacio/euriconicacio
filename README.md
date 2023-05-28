@@ -1,5 +1,5 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-I am **Eurico Nicacio**, Sr. Security & Software Engineer. I hack & code for living. Feel free to connect with me here:
+I am **Eurico Nicacio**, Sr. Security & Software & DevSecOps Engineer. I hack & code for living. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-euriconicacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euriconicacio/)](https://www.linkedin.com/in/euriconicacio/)
 [![Instagram Badge](https://img.shields.io/badge/-euriconicacio-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/euriconicacio/)](https://instagram.com/euriconicacio)
