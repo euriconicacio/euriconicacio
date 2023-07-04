@@ -46,19 +46,18 @@ I am **Eurico Nicacio**, Sr. Security & Software & DevSecOps Engineer. Hacking &
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-232F3E?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
-![Buildkite](https://img.shields.io/badge/Buildkite-%232C5263.svg?style=flat-square&logo=buildkite)
-![CircleCI](https://img.shields.io/badge/Circle%20CI-%232C5263.svg?style=flat-square&logo=circleci)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%232C5263.svg?style=flat-square&logo=gitlab)
-![GitHub Actions](https://img.shields.io/badge/GH%20Actions-%232C5263.svg?style=flat-square&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins)
-![Akamai](https://img.shields.io/badge/Akamai-%234285F4?style=flat-square&logo=akamai&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Fastly](https://img.shields.io/badge/Fastly-F80000?style=flat-square&logo=fastly&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-232F3E?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-232F3E?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-232F3E?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
+![Buildkite](https://img.shields.io/badge/Buildkite-%232C5263.svg?style=flat-square&logo=buildkite)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/Circle%20CI-%232C5263.svg?style=flat-square&logo=circleci)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%232C5263.svg?style=flat-square&logo=gitlab)
+![GitHub Actions](https://img.shields.io/badge/GH%20Actions-%232C5263.svg?style=flat-square&logo=githubactions)
+![Akamai](https://img.shields.io/badge/Akamai-%234285F4?style=flat-square&logo=akamai&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Fastly](https://img.shields.io/badge/Fastly-F80000?style=flat-square&logo=fastly&logoColor=white)
 
 <details>
 <summary>Click for GitHub Stats</summary>
