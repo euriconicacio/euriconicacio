@@ -71,6 +71,3 @@ I am **Eurico Nicacio**, Sr. Security & Software & DevSecOps Engineer. Hacking &
 </p>
 </details>
 
-... and remember, kids:
-
-<img src="https://i.giphy.com/media/14kdiJUblbWBXy/giphy.webp" />
