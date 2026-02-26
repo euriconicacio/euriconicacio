@@ -1,5 +1,5 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-I am **Eurico Nicacio**, Sr. Security Engineer. Hacking & coding. Feel free to connect with me here:
+I am **Eurico Nicacio**, a Security & Platform Engineer working across SecOps, cloud infrastructure, incident response, and secure platform engineering in regulated fintech, retail, and e-commerce environments. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-euriconicacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/euriconicacio/)](https://www.linkedin.com/in/euriconicacio/)
 [![Instagram Badge](https://img.shields.io/badge/-euriconicacio-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/euriconicacio/)](https://instagram.com/euriconicacio)
@@ -53,16 +53,3 @@ I am **Eurico Nicacio**, Sr. Security Engineer. Hacking & coding. Feel free to c
 ![Akamai](https://img.shields.io/badge/Akamai-%234285F4?style=flat-square&logo=akamai&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Fastly](https://img.shields.io/badge/Fastly-F80000?style=flat-square&logo=fastly&logoColor=white)
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=euriconicacio&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euriconicacio&layout=compact)
-
-
-<a href="https://skyline.github.com/euriconicacio/2022" title="2022 GitHub Skyline"><img src="https://user-images.githubusercontent.com/5957301/233016285-bf82b948-8e1f-4b60-aa37-d3d2e3a86cbc.png" alt="2022 GitHub Skyline" width="50%" /></a>
-</p>
-</details>
-
